@@ -1,0 +1,4 @@
+a) I would optimize the following lines in the script:
+		I would replace all lines where a for loop is needed for generating the arrays "manually" and use a module like numpy to speed up this process.
+b) I would optimize the following lines in the script:
+        I would optimize lines 25, 26, 29 and especially line 52.
